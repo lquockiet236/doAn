@@ -1,0 +1,11 @@
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\bin\Debug\QuanLiCuaHangBUS.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\bin\Debug\QuanLiCuaHangBUS.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\bin\Debug\QuanLiCuaHangDAO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\bin\Debug\QuanLiCuaHangDTO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\bin\Debug\QuanLiCuaHangDAO.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\bin\Debug\QuanLiCuaHangDTO.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\obj\Debug\QuanLiCuaHangBUS.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\obj\Debug\QuanLiCuaHangBUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\obj\Debug\QuanLiCu.AAC09A50.Up2Date
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\obj\Debug\QuanLiCuaHangBUS.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangBUS\obj\Debug\QuanLiCuaHangBUS.pdb

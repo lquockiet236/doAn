@@ -1,0 +1,9 @@
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDAO\bin\Debug\QuanLiCuaHangDAO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDAO\bin\Debug\QuanLiCuaHangDAO.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDAO\bin\Debug\QuanLiCuaHangDTO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDAO\bin\Debug\QuanLiCuaHangDTO.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDAO\obj\Debug\QuanLiCuaHangDAO.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDAO\obj\Debug\QuanLiCuaHangDAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDAO\obj\Debug\QuanLiCu.D892420C.Up2Date
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDAO\obj\Debug\QuanLiCuaHangDAO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDAO\obj\Debug\QuanLiCuaHangDAO.pdb

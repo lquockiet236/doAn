@@ -1,0 +1,6 @@
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDTO\bin\Debug\QuanLiCuaHangDTO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDTO\bin\Debug\QuanLiCuaHangDTO.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDTO\obj\Debug\QuanLiCuaHangDTO.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDTO\obj\Debug\QuanLiCuaHangDTO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDTO\obj\Debug\QuanLiCuaHangDTO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangDTO\obj\Debug\QuanLiCuaHangDTO.pdb
