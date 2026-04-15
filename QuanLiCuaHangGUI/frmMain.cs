@@ -72,6 +72,10 @@ namespace QuanLiCuaHangGUI
             f.Show();
         }
 
-
+        private void mnuSanPham_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            frmSanPham f = new frmSanPham();
+            MoFormChucNang(f);
+        }
     }
 }
