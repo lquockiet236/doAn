@@ -1,0 +1,55 @@
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangGUI.exe.config
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangGUI.exe
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangGUI.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangBUS.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDTO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangBUS.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDTO.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.frmMain.resources
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.Properties.Resources.resources
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.csproj.GenerateResource.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCu.E21D9A50.Up2Date
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.exe
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.frmDangNhap.resources
+C:\Users\nguye\Documents\vanh\c#\doAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.frmSanPham.resources
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.csproj.AssemblyReference.cache
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.frmDangNhap.resources
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.frmMain.resources
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.frmSanPham.resources
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.Properties.Resources.resources
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.csproj.GenerateResource.cache
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.csproj.CoreCompileInputs.cache
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.exe
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.pdb
+D:\va\th win\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangGUI.exe.config
+D:\va\th win\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangGUI.exe
+D:\va\th win\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangGUI.pdb
+D:\va\th win\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangBUS.dll
+D:\va\th win\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDTO.dll
+D:\va\th win\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDAO.dll
+D:\va\th win\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangBUS.pdb
+D:\va\th win\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDTO.pdb
+D:\va\th win\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDAO.pdb
+D:\va\th win\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCu.E21D9A50.Up2Date
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangGUI.exe.config
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangGUI.exe
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangGUI.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangBUS.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDTO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDAO.dll
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangBUS.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDTO.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\bin\Debug\QuanLiCuaHangDAO.pdb
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.frmDangNhap.resources
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.frmMain.resources
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.frmSanPham.resources
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.Properties.Resources.resources
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.csproj.GenerateResource.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCu.E21D9A50.Up2Date
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.exe
+C:\Users\nguye\Documents\vanh\c#\doAn\DoAn\QuanLiCuaHangGUI\obj\Debug\QuanLiCuaHangGUI.pdb
