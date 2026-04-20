@@ -148,7 +148,7 @@
             // txtMaSp
             // 
             this.txtMaSp.Location = new System.Drawing.Point(162, 58);
-            this.txtMaSp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtMaSp.Margin = new System.Windows.Forms.Padding(2);
             this.txtMaSp.Name = "txtMaSp";
             this.txtMaSp.Size = new System.Drawing.Size(210, 20);
             this.txtMaSp.TabIndex = 7;
@@ -156,7 +156,7 @@
             // txtTenSp
             // 
             this.txtTenSp.Location = new System.Drawing.Point(162, 93);
-            this.txtTenSp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtTenSp.Margin = new System.Windows.Forms.Padding(2);
             this.txtTenSp.Name = "txtTenSp";
             this.txtTenSp.Size = new System.Drawing.Size(210, 20);
             this.txtTenSp.TabIndex = 8;
@@ -165,7 +165,7 @@
             // 
             this.cboLoai.FormattingEnabled = true;
             this.cboLoai.Location = new System.Drawing.Point(162, 134);
-            this.cboLoai.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cboLoai.Margin = new System.Windows.Forms.Padding(2);
             this.cboLoai.Name = "cboLoai";
             this.cboLoai.Size = new System.Drawing.Size(210, 21);
             this.cboLoai.TabIndex = 9;
@@ -174,7 +174,7 @@
             // 
             this.cboSize.FormattingEnabled = true;
             this.cboSize.Location = new System.Drawing.Point(162, 175);
-            this.cboSize.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cboSize.Margin = new System.Windows.Forms.Padding(2);
             this.cboSize.Name = "cboSize";
             this.cboSize.Size = new System.Drawing.Size(92, 21);
             this.cboSize.TabIndex = 10;
@@ -187,7 +187,7 @@
             0,
             0});
             this.nudGia.Location = new System.Drawing.Point(162, 215);
-            this.nudGia.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.nudGia.Margin = new System.Windows.Forms.Padding(2);
             this.nudGia.Name = "nudGia";
             this.nudGia.Size = new System.Drawing.Size(209, 20);
             this.nudGia.TabIndex = 11;
@@ -195,7 +195,7 @@
             // nudSoLuong
             // 
             this.nudSoLuong.Location = new System.Drawing.Point(163, 254);
-            this.nudSoLuong.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.nudSoLuong.Margin = new System.Windows.Forms.Padding(2);
             this.nudSoLuong.Name = "nudSoLuong";
             this.nudSoLuong.Size = new System.Drawing.Size(90, 20);
             this.nudSoLuong.TabIndex = 12;
@@ -216,7 +216,7 @@
             this.picSP.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.picSP.Location = new System.Drawing.Point(482, 65);
-            this.picSP.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.picSP.Margin = new System.Windows.Forms.Padding(2);
             this.picSP.Name = "picSP";
             this.picSP.Size = new System.Drawing.Size(152, 168);
             this.picSP.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -240,7 +240,7 @@
             this.colTrangThai});
             this.dgvSP.GridColor = System.Drawing.SystemColors.Control;
             this.dgvSP.Location = new System.Drawing.Point(9, 327);
-            this.dgvSP.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dgvSP.Margin = new System.Windows.Forms.Padding(2);
             this.dgvSP.Name = "dgvSP";
             this.dgvSP.RowHeadersVisible = false;
             this.dgvSP.RowHeadersWidth = 51;
@@ -254,7 +254,7 @@
             this.btnThem.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.btnThem.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThem.Location = new System.Drawing.Point(666, 65);
-            this.btnThem.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnThem.Margin = new System.Windows.Forms.Padding(2);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(89, 40);
             this.btnThem.TabIndex = 18;
@@ -267,7 +267,7 @@
             this.btnSua.BackColor = System.Drawing.Color.SteelBlue;
             this.btnSua.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSua.Location = new System.Drawing.Point(666, 134);
-            this.btnSua.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnSua.Margin = new System.Windows.Forms.Padding(2);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(89, 40);
             this.btnSua.TabIndex = 19;
@@ -280,7 +280,7 @@
             this.btnXoa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.btnXoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa.Location = new System.Drawing.Point(666, 204);
-            this.btnXoa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnXoa.Margin = new System.Windows.Forms.Padding(2);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(89, 40);
             this.btnXoa.TabIndex = 20;
@@ -293,7 +293,7 @@
             this.btnReset.BackColor = System.Drawing.Color.Khaki;
             this.btnReset.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReset.Location = new System.Drawing.Point(666, 268);
-            this.btnReset.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnReset.Margin = new System.Windows.Forms.Padding(2);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(89, 40);
             this.btnReset.TabIndex = 21;
@@ -318,7 +318,7 @@
             this.txtMoTa.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtMoTa.Location = new System.Drawing.Point(482, 238);
-            this.txtMoTa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtMoTa.Margin = new System.Windows.Forms.Padding(2);
             this.txtMoTa.Multiline = true;
             this.txtMoTa.Name = "txtMoTa";
             this.txtMoTa.Size = new System.Drawing.Size(153, 61);
@@ -328,7 +328,7 @@
             // 
             this.radHoatDong.AutoSize = true;
             this.radHoatDong.Location = new System.Drawing.Point(162, 292);
-            this.radHoatDong.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.radHoatDong.Margin = new System.Windows.Forms.Padding(2);
             this.radHoatDong.Name = "radHoatDong";
             this.radHoatDong.Size = new System.Drawing.Size(76, 17);
             this.radHoatDong.TabIndex = 24;
@@ -340,7 +340,7 @@
             // 
             this.radNgungHoatDong.AutoSize = true;
             this.radNgungHoatDong.Location = new System.Drawing.Point(273, 291);
-            this.radNgungHoatDong.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.radNgungHoatDong.Margin = new System.Windows.Forms.Padding(2);
             this.radNgungHoatDong.Name = "radNgungHoatDong";
             this.radNgungHoatDong.Size = new System.Drawing.Size(109, 17);
             this.radNgungHoatDong.TabIndex = 25;
@@ -367,6 +367,7 @@
             // colLoai
             // 
             this.colLoai.DataPropertyName = "loaiSP";
+            this.colLoai.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
             this.colLoai.HeaderText = "Loại";
             this.colLoai.MinimumWidth = 6;
             this.colLoai.Name = "colLoai";
@@ -375,6 +376,7 @@
             // colSize
             // 
             this.colSize.DataPropertyName = "Size";
+            this.colSize.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
             this.colSize.HeaderText = "Size";
             this.colSize.MinimumWidth = 6;
             this.colSize.Name = "colSize";
@@ -441,7 +443,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmSanPham";
             this.Text = " ";
             this.Load += new System.EventHandler(this.frmSanPham_Load);

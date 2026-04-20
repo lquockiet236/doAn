@@ -25,6 +25,7 @@ namespace QuanLiCuaHangDAO
                     s.maLoai = sdr["maLoai"].ToString();
                     s.maThuongHieu = sdr["maThuongHieu"].ToString();
                     s.hinhAnh = sdr["hinhAnh"].ToString();
+                    s.moTa = sdr["moTa"].ToString();
                     lsResult.Add(s);
                 }
                 return lsResult;
