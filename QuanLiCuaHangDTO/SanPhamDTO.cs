@@ -10,7 +10,7 @@ namespace QuanLiCuaHangDTO
     {
         public string maSP{get;set;}
         public string tenSP{get;set;}
-        public float giaBan{get;set;}
+        public decimal giaBan{get;set;}
         public string moTa{get;set;}
         public string maLoai{get;set;}
         public string maThuongHieu{get;set;}
